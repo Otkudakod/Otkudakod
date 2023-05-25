@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Alexander Kiselev
+### I'm Data Analyst and Demand Planner
+
+ - 🔭 I’m currently looking for a job as a Data Analyst
+
+
 
 <!--
 **Otkudakod/Otkudakod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
