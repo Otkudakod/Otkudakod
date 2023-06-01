@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Alexander Kiselev
+### Hi there 👋, I'm Alexandr Kiselev
 ### I'm Data Analyst and Demand Planner
 
  - 🔭 I’m currently looking for a job as a Data Analyst
