@@ -5,12 +5,6 @@
 
 #### Stack:
 
-<img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v1C.svg" />
-<img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/uzj.svg" />
-<img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v1f.svg" />
-<img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v1r.svg" />
-<img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/uyu.svg" />
-
 <br> 
 <br/>
 
@@ -36,4 +30,11 @@ Here are some ideas to get you started:
 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v1C.svg" />
+<img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/uzj.svg" />
+<img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v1f.svg" />
+<img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v1r.svg" />
+<img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/uyu.svg" />
+
 -->
