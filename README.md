@@ -3,11 +3,6 @@
 
  - 🔭 I’m currently looking for a job as a Data Analyst
 
-#### Stack:
-
-<br> 
-<br/>
-
 #### Links:
 
 [LinkedIn](https://www.linkedin.com/in/aleksandr-kiselev-450b4777/)
@@ -30,6 +25,7 @@ Here are some ideas to get you started:
 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+#### Stack:
 
 <img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v1C.svg" />
 <img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/uzj.svg" />
