@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Aleksandr Kiselev
 ### Data Analyst and Demand Planner
 
- - 🔭 I’m currently looking for a job as a Data Analyst
+ - 🔭 I’m looking for a job as a Data Analyst
 
 #### Links:
 
