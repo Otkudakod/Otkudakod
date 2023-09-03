@@ -10,11 +10,12 @@
 <img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v1f.svg" />
 <img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v1r.svg" />
 <img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/uyu.svg" />
-<img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v0Y.svg" />
-<img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v1V.svg" />
+
 <br> 
 <br/>
+
 #### Links:
+
 [LinkedIn](https://www.linkedin.com/in/aleksandr-kiselev-450b4777/)
 
 [Telegram](https://t.me/otkudau)
