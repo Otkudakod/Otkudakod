@@ -1,8 +1,26 @@
 ### Hi there 👋, I'm Aleksandr Kiselev
-### I'm Data Analyst and Demand Planner
+### Data Analyst and Demand Planner
 
  - 🔭 I’m currently looking for a job as a Data Analyst
 
+#### Скиллы и инструменты:
+
+<img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v1C.svg" />
+<img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/uzj.svg" />
+<img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v1f.svg" />
+<img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v1r.svg" />
+<img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/uyu.svg" />
+<img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v0Y.svg" />
+<img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v1V.svg" /><br> <br/>
+
+#### Продуктовые скиллы: 
+Метрики, воронки, когортный анализ, юнит-экономика, CJM, JTBD
+
+[LinkedIn](https://www.linkedin.com/in/aleksandr-kiselev-450b4777/)
+
+[Telegram](https://t.me/otkudau)
+
+[Tableau public](https://public.tableau.com/app/profile/alex2792)
 
 
 <!--
