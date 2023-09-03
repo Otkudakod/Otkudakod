@@ -3,7 +3,7 @@
 
  - 🔭 I’m currently looking for a job as a Data Analyst
 
-#### Скиллы и инструменты:
+#### Stack:
 
 <img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v1C.svg" />
 <img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/uzj.svg" />
@@ -13,8 +13,6 @@
 <img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v0Y.svg" />
 <img align="left" alt="HTML5" width="46px" src="https://svgshare.com/i/v1V.svg" /><br> <br/>
 
-#### Продуктовые скиллы: 
-Метрики, воронки, когортный анализ, юнит-экономика, CJM, JTBD
 
 [LinkedIn](https://www.linkedin.com/in/aleksandr-kiselev-450b4777/)
 
